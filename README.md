@@ -4,4 +4,5 @@ The easiest & simplest way to control noclip for players/ranks using ULX Admin M
 Players with this permission granted can simply use their normal key to enter noclip insted of using external commands such as "!noclip" or binding their "ulx noclip" key.
 People without this permission will not be able to enter noclip at all.
 
-[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1522085869]Workshop[/url]
+Workshop:
+https://steamcommunity.com/sharedfiles/filedetails/?id=1522085869
