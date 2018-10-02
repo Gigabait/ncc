@@ -1,5 +1,14 @@
 if SERVER then
 
+    if not GetConVar( "sbox_noclip" ):GetBool() then
+
+        timer.Simple(1, function()
+
+            game.ConsoleCommand("sbox_noclip 1\n")
+            
+        end)
+
+    end
     hook.Add( "PlayerNoClip", "ncc_access_check", function( ply, noclipState )
 
         if ULib ~= nil then
